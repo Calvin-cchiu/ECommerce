@@ -1,0 +1,30 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.DS_Store
+media
+
+# If you have a virtualenv environment
+venv/
+.env
+.env.local
+
+# Ignore Dockerfile and docker-compose.yml if present
+Dockerfile
+docker-compose*.yml
+
+# Ignore Git and other VCS directories
+.git
+.gitignore
+.svn
+.hg
+
+# Ignore other unnecessary files
+README.md
+LICENSE
+docs
+tests
+*.md
+*.yml
