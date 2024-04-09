@@ -1,0 +1,2 @@
+Full-Stack E-Commerce Website
+This project is a comprehensive full-stack e-commerce website, designed with a focus on a seamless user experience and efficient data management. Utilizing the powerful combination of React and Redux on the front end, Django as the back-end framework, and Docker for containerization.
